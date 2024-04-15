@@ -1,12 +1,16 @@
-,<h1>这是一级标题<h1>
-  #``#
-<h2>这是二级标题<h2>
-  #``#
-<h3>这是三级标题<h3>
-  #``#
-<h4>这是四级标题<h4>
-  #``#
-<h5>这是五级标题<h5>
-  #``#
-<h6>这是六级标题<h6>
-  #``#
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
